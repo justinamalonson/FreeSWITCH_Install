@@ -1,1 +1,1 @@
-# FreeSWITCH Installatio
+# Updated FreeSWITCH Installation Methods
